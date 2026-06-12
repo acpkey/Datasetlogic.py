@@ -1,2 +1,4 @@
-# Datasetlogic.py
-A lightweight Python tool for analyzing and filtering AI dialogue datasets 
+# datasetlogic
+
+Python script for AI dataset analysis 
+
